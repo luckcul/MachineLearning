@@ -18,6 +18,10 @@ k-means是一种聚类算法(clustering)。
 
 待补。
 
+收敛性证明。
+
+图像分割应用
+
 ## 效果
 
  ![show](show.jpg)
