@@ -2,7 +2,9 @@
 
 k-means (2016-11-20 )
 
-SVM
+SVM: SMO
 
 Apriori
+
+DecisionTree: ID3
 
